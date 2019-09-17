@@ -2,12 +2,6 @@
 
 ##Subheading
 
-
-
-
-
-
-
 This is a parapraph
 
 -This is a bullet point
@@ -15,5 +9,3 @@ This is a parapraph
 Exit is used to quick out of INSERT MODE 
 
 :wq is used to save and quit vim
-
-
