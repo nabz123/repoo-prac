@@ -2,8 +2,8 @@
 
 ##Subheading
 
-<<<<<<< HEAD
-=======
+
+
 <!-- This is for Mitchell -->
 
 
