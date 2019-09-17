@@ -1,8 +1,19 @@
 # repoo-prac
 
 ##Subheading
-This is a paragraph
 
-- Markdown is easy
-- Its just some extra characters
-- these get turned into formatting later on
+
+
+
+
+
+
+This is a parapraph
+
+-This is a bullet point
+
+Exit is used to quick out of INSERT MODE 
+
+:wq is used to save and quit vim
+
+
